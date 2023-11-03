@@ -17,3 +17,10 @@ Describe -  This will provide mean , std , min , max , count , mode
 TASK 3: Visualization using Histogram
 Used Matplot library to visualize the histogram and bar chart.
 
+
+
+
+#TECHNOHACKSEDUTECH
+
+https://github.com/MeenaBugatha/TechnoHacks-EduTech/assets/141447329/6b108b4a-49d5-404f-b69c-79dfa22e3aea
+
