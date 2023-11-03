@@ -2,7 +2,7 @@
 Data Analytics - Internship 
 
 TASK 1: Performed Data cleaning
-1. Dataset : Kaggle - Titanic Gender_servived data
+1. Dataset : Kaggle - Titanic Gender_survived data
 2. Used Google collab with python libraries - pandas
 3. Used Head, tail, info , samples to display the data.
 4. Removed missing values used isnull, dropna, duplicates.
